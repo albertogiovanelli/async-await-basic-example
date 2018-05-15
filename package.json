@@ -4,7 +4,8 @@
   "description": "",
   "main": "app-promises.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start-currency": "node currency-convert.js",
+    "start-promises": "node app-promises.js"
   },
   "author": "",
   "license": "ISC",
